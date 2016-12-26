@@ -1,5 +1,6 @@
 GIMP Palette
 Name: Material Colors
+Columns: 14
 #
 255 235 238		material_red_50
 255 205 210		material_red_100
@@ -235,6 +236,10 @@ Name: Material Colors
 93 64 55		material_brown_700
 78 52 46		material_brown_800
 62 39 35		material_brown_900
+255 255 255		material_white
+255 255 255		material_white
+255 255 255		material_white
+255 255 255		material_white
 250 250 250		material_gray_50
 245 245 245		material_gray_100
 238 238 238		material_gray_200
@@ -245,6 +250,10 @@ Name: Material Colors
 97 97 97		material_gray_700
 66 66 66		material_gray_800
 33 33 33		material_gray_900
+0 0 0		material_black
+0 0 0		material_black
+0 0 0		material_black
+0 0 0		material_black
 236 239 241		material_blueGray_50
 207 216 220		material_blueGray_100
 176 190 197		material_blueGray_200
@@ -255,5 +264,7 @@ Name: Material Colors
 69 90 100		material_blueGray_700
 55 71 79		material_blueGray_800
 38 50 56		material_blueGray_900
+255 255 255		material_white
+0 0 0		material_black
 255 255 255		material_white
 0 0 0		material_black
