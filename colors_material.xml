@@ -240,6 +240,7 @@
     <color name="material_deepOrange_A400">#ff3d00</color>
     <color name="material_deepOrange_A700">#dd2c00</color>
 
+    <color name="material_brown_50">#efebe9</color>
     <color name="material_brown_100">#d7ccc8</color>
     <color name="material_brown_200">#bcaaa4</color>
     <color name="material_brown_300">#a1887f</color>
