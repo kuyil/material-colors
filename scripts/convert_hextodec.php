@@ -14,12 +14,12 @@ $material_colors_file = fopen("material_colors.gpl", "w") or die("Unable to open
 
 fwrite($material_colors_file, "GIMP Palette\n");
 fwrite($material_colors_file, "Name: Material Colors\n");
-fwrite($material_colors_file, "#\n");
+fwrite($material_colors_file, "#");
 
 //looping if tag config have more than one
 foreach ($node as $searchNode) {
    $rgb_array = hextorgb($searchNode->nodeValue);  
-   $rgb_value_with_name = $rgb_array['r']." ".$rgb_array['g']." ".$rgb_array['b']."\t\t".$searchNode->getAttribute('name')."\n";
+   $rgb_value_with_name = "\n".$rgb_array['r']." ".$rgb_array['g']." ".$rgb_array['b']."\t\t".$searchNode->getAttribute('name');
    fwrite($material_colors_file, $rgb_value_with_name);
 }
 
