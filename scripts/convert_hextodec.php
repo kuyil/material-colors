@@ -1,8 +1,5 @@
 <?php
 
-// $xml=simplexml_load_file("colors_material.xml") or die("Error: Cannot create object");
-// print_r($xml);
-
 //declare DOMDocument
 $objDOM = new DOMDocument();
 
