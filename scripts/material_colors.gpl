@@ -225,6 +225,7 @@ Name: Material Colors
 255 110 64		material_deepOrange_A200
 255 61 0		material_deepOrange_A400
 221 44 0		material_deepOrange_A700
+239 235 233		material_brown_50
 215 204 200		material_brown_100
 188 170 164		material_brown_200
 161 136 127		material_brown_300
