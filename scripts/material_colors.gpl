@@ -254,3 +254,5 @@ Name: Material Colors
 69 90 100		material_blueGray_700
 55 71 79		material_blueGray_800
 38 50 56		material_blueGray_900
+255 255 255		material_white
+0 0 0		material_black
